@@ -10,10 +10,11 @@ This is where I am going to tell you all about me.
 ![sourabhmandal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmandal&show_icons=true&theme=tokyonight&layout=compact)
 
 ### [This is My Blog](https://sourabhmandal.github.io/). I mostly write about:
-  1. C++
-  2. Cyber Security
-  3. Artificial Intelligence
-  
+|<!-- -->                                                 |<!-- -->                                                  |<!-- -->                                                  |
+|:--------------------------------------------------------|:---------------------------------------------------------|:---------------------------------------------------------|
+|1. C++                                                   |2. Cyber Security                                         |3. Artificial Intelligence                                |
+|4. python                                                |5. Machine Learning                                       | 6. Malware                                               |
+
 
 > **🌱 I’m currently learning _Machine Learning in CyberSecurity_**
 - [X] SVM
