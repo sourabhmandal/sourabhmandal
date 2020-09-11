@@ -6,8 +6,10 @@ This is where I am going to tell you all about me.
 - 🎓 Student at Army Institute of Technology, Pune.
 
 
-<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmandal&theme=vue&hide=css,tcl,html"></img>
-<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=sourabhmandal&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
+<div>
+  <img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmandal&theme=vue&hide=css,tcl,html"></img>
+  <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=sourabhmandal&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
+</div>
 
 ### [This is My Blog](https://sourabhmandal.github.io/). I mostly write about:
 |<!-- -->                                                 |<!-- -->                                                  |<!-- -->                                                  |
