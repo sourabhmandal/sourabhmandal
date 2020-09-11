@@ -11,10 +11,13 @@
     <img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmandal&theme=vue&hide=css,tcl,html"></img>
     <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=sourabhmandal&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
   </div>
-  
+
+  <br/><br/><br/><br/><br/><br/><br/><br/>
+  <h4 align="center">This is my blog: <a align="center" href="http://sourabhmandal.github.io">sourabhmandal.github.io</a></h4>
+
   <table>
     <tr>
-      <td  style="border : 0px">1. C++</td>
+      <td>1. C++</td>
       <td>2. Cyber Security</td>
       <td>3. Artificial Intelligence</td>
     </tr>
