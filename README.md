@@ -43,13 +43,6 @@
         C++<br>
         python<br>
   </p>
-  
-  <a href="https://github.com/sourabhmandal/cpxtreme">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhmandal&repo=cpxtreme" />
-  </a>
-  <a href="https://github.com/sourabhmandal/sourabhmandal.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhmandal&repo=sourabhmandal.github.io" />
-  </a>
   <!--
   **sourabhmandal/sourabhmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
