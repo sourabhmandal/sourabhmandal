@@ -17,9 +17,10 @@
   
   <blockquote><h3>🌱 I’m currently learning Backend Development and System Design</h3></blockquote>
   <ul>
-    <li>SVM</li>
-    <li>Regression</li>
-    <li>PeFiles</li>
+    <li>Low Level Design</li>
+    <li>Microservices</li>
+    <li>MVC pattern</li>
+    <li>JAM stack</li>
   </ul>
   
   <blockquote><h3>👯 I’m looking to collaborate on project related to web and c++</h3></blockquote>
