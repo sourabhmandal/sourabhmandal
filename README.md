@@ -13,20 +13,7 @@
   </div>
 
   <br/><br/><br/><br/><br/><br/><br/><br/>
-  <h4 align="center">This is my blog: <a align="center" href="http://sourabhmandal.github.io">sourabhmandal.github.io</a></h4>
 
-  <table>
-    <tr>
-      <td>1. C++</td>
-      <td>2. Cyber Security</td>
-      <td>3. Artificial Intelligence</td>
-    </tr>
-    <tr>
-      <td>4. python</td>
-      <td>5. Machine Learning</td>
-      <td>6. Malware</td>
-    </tr>
-  </table>
   
   <blockquote><h3>🌱 I’m currently learning Machine Learning in CyberSecurity</h3></blockquote>
   <ul>
