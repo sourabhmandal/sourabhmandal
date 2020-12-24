@@ -22,13 +22,12 @@
     <li>PeFiles</li>
   </ul>
   
-  <blockquote><h3>👯 I’m looking to collaborate on project realated to Cyber Security and Machine Learning</h3></blockquote>
+  <blockquote><h3>👯 I’m looking to collaborate on project related to web and c++</h3></blockquote>
   <p>
-        Networking<br>
-        Machine Learning Frameworks<br>
-        Deep learning frameworks<br>
-        C++<br>
-        python<br>
+        Networking<br/>
+        Web Development<br/>
+        C++<br/>
+        python<br/>
   </p>
   <!--
   **sourabhmandal/sourabhmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
