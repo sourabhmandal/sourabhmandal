@@ -15,7 +15,7 @@
   <br/><br/><br/><br/><br/><br/><br/><br/>
 
   
-  <blockquote><h3>🌱 I’m currently learning Machine Learning in CyberSecurity</h3></blockquote>
+  <blockquote><h3>🌱 I’m currently learning Backend Development and System Design</h3></blockquote>
   <ul>
     <li>SVM</li>
     <li>Regression</li>
