@@ -30,6 +30,9 @@
         C++<br/>
         python<br/>
   </p>
+  
+  
+  <a href="https://app.daily.dev/sourabh_mandal"><img src="https://api.daily.dev/devcards/7fb6dcab821c4d11aec4d75310b8bdbc.png?r=qfs" width="400" alt="sourabh mandal's Dev Card"></a>
   <!--
   **sourabhmandal/sourabhmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
