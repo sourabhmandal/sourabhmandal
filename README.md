@@ -5,10 +5,7 @@
     <li>🏝️ Lives in Pune, India.</li>
     <li>🎓 Student at Army Institute of Technology, Pune.</li>
   </ul>
-
-  <br/><br/><br/><br/>
-
-  
+  <br/>
   <blockquote><h3>🌱 I’m currently learning Backend Development and System Design</h3></blockquote>
   <ul>
     <li>Low Level Design</li>
