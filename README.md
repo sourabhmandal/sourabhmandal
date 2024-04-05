@@ -5,14 +5,8 @@
     <li>🏝️ Lives in Pune, India.</li>
     <li>🎓 Student at Army Institute of Technology, Pune.</li>
   </ul>
-  
-  
-  <div>
-    <img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmandal&theme=vue&hide=css,tcl,html"></img>
-    <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=sourabhmandal&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
-  </div>
 
-  <br/><br/><br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/>
 
   
   <blockquote><h3>🌱 I’m currently learning Backend Development and System Design</h3></blockquote>
