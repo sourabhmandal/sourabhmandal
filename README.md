@@ -18,16 +18,14 @@
   </ul>
   
   <blockquote><h3>👯 I’m looking to collaborate on project related to web and real business problems with software technology</h3></blockquote>
-  <p>
-        Networking<br/>
-        Web Development<br/>
-        Golang<br/>
-        GraphQL<br/>
-        Javascript<br/>
-        Docker<br/>
-        Postgres<br/>
-        Python<br/>
-  </p>
+  - Networking
+  - Web Development
+  - Golang
+  - GraphQL
+  - Javascript
+  - Docker
+  - Postgres
+  - Python
   
   <!--
   **sourabhmandal/sourabhmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
