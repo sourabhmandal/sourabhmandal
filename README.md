@@ -12,16 +12,21 @@
   <ul>
     <li>Low Level Design</li>
     <li>Microservices</li>
-    <li>MVC pattern</li>
+    <li>Docker</li>
+    <li>Docker</li>
     <li>Authentication SSO</li>
   </ul>
   
-  <blockquote><h3>👯 I’m looking to collaborate on project related to web and c++</h3></blockquote>
+  <blockquote><h3>👯 I’m looking to collaborate on project related to web and real business problems with software technology</h3></blockquote>
   <p>
         Networking<br/>
         Web Development<br/>
-        C++<br/>
-        python<br/>
+        Golang<br/>
+        GraphQL<br/>
+        Javascript<br/>
+        Docker<br/>
+        Postgres<br/>
+        Python<br/>
   </p>
   
   <!--
