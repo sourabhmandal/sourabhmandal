@@ -1,12 +1,16 @@
   <h2 align="center">Git commit n repeat 🧑‍🚒
   
   <blockquote><h3>About Me</h3></blockquote>
+  
   <ul>
     <li>🏝️ Lives in Pune, India.</li>
     <li>🎓 Student at Army Institute of Technology, Pune.</li>
   </ul>
+  
   <br/>
+  
   <blockquote><h3>🌱 I’m currently learning Backend Development and System Design</h3></blockquote>
+  
   <ul>
     <li>Low Level Design</li>
     <li>Microservices</li>
@@ -27,11 +31,6 @@
   - Postgres
   - Python
   
-  <!--
-  **sourabhmandal/sourabhmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-    Here are some ideas to get you started:
-
     - 🔭 I’m currently working on ...
     - 🌱 I’m currently learning ...
     - 🤔 I’m looking for help with ...
