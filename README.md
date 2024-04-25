@@ -1,6 +1,7 @@
   <h2 align="center">Git commit n repeat 🧑‍🚒
-<h3 align="center">Building Open Source SaaS tools <a href="https://github.com/supareel">@supareel</a></h3>
-
+<!-- 
+    <h3 align="center">Building Open Source SaaS tools <a href="https://github.com/supareel">@supareel</a></h3>
+ -->
   
   <blockquote><h3>About Me</h3></blockquote>
   <ul>
