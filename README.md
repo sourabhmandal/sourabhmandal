@@ -1,4 +1,4 @@
-  <h2 align="center">Git commit n repeat 🧑‍🚒
+  <h2 align="center">Git commit n repeat 🧑‍🚒</h2>
   
   <blockquote><h3>About Me</h3></blockquote>
   
