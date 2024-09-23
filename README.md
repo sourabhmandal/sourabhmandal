@@ -3,8 +3,8 @@
   <blockquote><h3>👶 About Me</h3></blockquote>
   <ul>
     <li>🎓 Bachelor of Technology, Computer Engineering (2018 - 2022)</li>
-    <li>🏝️ Lives in Kolkata, India.</li>
-    <li>👯 Open Source Contributors</li>
+    <li>🏝️ Lives in Kolkata, India</li>
+    <li>👯 Open Source Contributor</li>
   </ul>
 
   <blockquote><h3>📫 How to reach me</h3></blockquote>
