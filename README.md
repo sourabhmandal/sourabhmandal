@@ -13,47 +13,20 @@
     <li><a target=”_blank” href='https://github.com/sourabhmandal'>GitHub</a></li>
     <li><a target=”_blank” href='https://linkedin.com/in/sourabh-mandal'>LinkedIN</a></li>
   </ul>
-  <blockquote><h3>💻 Experience</h3></blockquote>
   
-  <h4>Full Stack Software Developer, Muthoot Fincorp, Chennai <span>(6 months, Feb 2024 - Jul 2024)</span></h4>
-  <ul>
-    <li>Built End to End Sales Incentive distribution platform using NextJS, NodeJS, Docker, AWS EC2, AWS RDS.</li>
-    <li>Impacted 1500 employees to calculate and receive proper incentive timely.
-    <li>Efficient calculation based on 26 different parameters and built efficient SQL queries to fetch data</li>
-  </ul>
-
-  
-  <h4>Full Stack Software Engineer, Dextr Labs, Chennai <span>(6 months, Feb 2024 - Jul 2024)</span></h4>
-  <ul>
-    <li>Built End to End Sales Incentive distribution platform using NextJS, NodeJS, Docker, AWS EC2, AWS RDS.</li>
-    <li>Impacted 1500 employees to calculate and receive proper incentive timely.
-    <li>Efficient calculation based on 26 different parameters and built efficient SQL queries to fetch data</li>
-  </ul>
-
-  <h4>FullStack Software & Security Engineer, Qblocks Technologies, Pune <span>(1 year 3 months, May 2022 - Aug 2023)</span></h4>
-  <ul>
-    <li>Keycloak based Authentication and Authorization server for Organization level SSO.</li>
-    <li>Golang based microservice for back-end development using Software Architechture Principals.</li>
-    <li>Setup and Manage Docker container based CI/CD pipelines with 50+ microservices within Azure Kubernetes.</li>
-    <li>Setup CI/CD using GitHub Actions and Argo CD with Azure cloud.</li>
-    <li>Secured backend with SSO Authentication and Authorization via API gateway.</li>
-    <li>Golang microservices Authentication implementation of zblocks and SSO</li>
-    <li>Developed platform Low-Code, Drag-and-Drop code-blocks for writing smart contracts in Rust or Solidity</li>
-  </ul>
-
   <blockquote><h3>📫 Personal Projects</h3></blockquote>
-  <h4>AI enabled SaaS management software (SupaReel)</h4>
+  <h4>AI based Interview preparation guide (PocoPrep)</h4>
   <ul>
     <li>Used twitter-roberta-base model for sentiment analysis</li>
     <li>Used Server Side Rendering when possible for faster loading, reduced time to interactivity by 4%</li>
     <li>Technology Used: NextJS 13, O-Auth 2.0, tRPC, Typescript, SQL database, AWS, GitHub CI/CD</li>
   </ul>
 
-  <h4>Placement Registration Portal (Ait Placements)</h4>
+  <h4>AI enabled youtube content idea and reals generator (SupaReel)</h4>
   <ul>
-    <li>Enabled students to timely recieve notification and conduct placements smoothly.</li>
-    <li>Features Email Notification, User verification, RBAC Authorisation, Secure Password Reset.</li>
-    <li>Technology Used: NextJS, AWS SES, AWS S3, O-Auth 2.0, SQL database, Serverless, GitHub CI/CD</li>
+    <li>Used twitter-roberta-base model for sentiment analysis</li>
+    <li>Used Server Side Rendering when possible for faster loading, reduced time to interactivity by 4%</li>
+    <li>Technology Used: NextJS 13, O-Auth 2.0, tRPC, Typescript, SQL database, AWS, GitHub CI/CD</li>
   </ul>
 
   <h4>User Profile Avatar Generator (Avatarsum)</h4>
