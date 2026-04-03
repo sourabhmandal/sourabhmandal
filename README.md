@@ -3,38 +3,18 @@
   <blockquote><h3>👶 About Me</h3></blockquote>
   <ul>
     <li>🎓 Bachelor of Technology, Computer Engineering (2018 - 2022)</li>
-    <li>🏝️ Lives in Kolkata, India</li>
-    <li>👯 Open Source Contributor</li>
+    <li>🏝️ Lives in Pune, India</li>
   </ul>
 
   <blockquote><h3>📫 How to reach me</h3></blockquote>
   <ul>
-    <li><a target=”_blank” href='mailto:19mandal97@gmail.com'>Email</a></li>
+    <li><a target=”_blank” href='mailto:work.sourabhmandal@gmail.com'>Email</a></li>
     <li><a target=”_blank” href='https://github.com/sourabhmandal'>GitHub</a></li>
     <li><a target=”_blank” href='https://linkedin.com/in/sourabh-mandal'>LinkedIN</a></li>
   </ul>
   
   <blockquote><h3>📫 Personal Projects</h3></blockquote>
-  <h4>AI based Interview preparation guide (PocoPrep)</h4>
-  <ul>
-    <li>Used twitter-roberta-base model for sentiment analysis</li>
-    <li>Used Server Side Rendering when possible for faster loading, reduced time to interactivity by 4%</li>
-    <li>Technology Used: NextJS 13, O-Auth 2.0, tRPC, Typescript, SQL database, AWS, GitHub CI/CD</li>
-  </ul>
-
-  <h4>AI enabled youtube content idea and reals generator (SupaReel)</h4>
-  <ul>
-    <li>Used twitter-roberta-base model for sentiment analysis</li>
-    <li>Used Server Side Rendering when possible for faster loading, reduced time to interactivity by 4%</li>
-    <li>Technology Used: NextJS 13, O-Auth 2.0, tRPC, Typescript, SQL database, AWS, GitHub CI/CD</li>
-  </ul>
-
-  <h4>User Profile Avatar Generator (Avatarsum)</h4>
-  <ul>
-    <li>Designed & Developed Feature rich web portal to generate svg/png emojis.</li>
-    <li>Algorithm for random facial feature generation.</li>
-    <li>Added functionality to Save to account selected svgs and User Login and Authentication.</li>
-  </ul>
+  #### Pinned Below
 
   <blockquote><h3>💻 Technical Skills and Interests</h3></blockquote>
 
