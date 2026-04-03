@@ -14,7 +14,7 @@
   </ul>
   
   <blockquote><h3>📫 Personal Projects</h3></blockquote>
-  #### Pinned Below
+  <i>Pinned Below</i>
 
   <blockquote><h3>💻 Technical Skills and Interests</h3></blockquote>
 
